@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
 <h3 align="center">Student At SRM University Pursuing CSE With Specialisation in Software Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gn1264&label=Profile%20views&color=0e75b6&style=flat" alt="gn1264" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gn1264" alt="gn1264" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development**
 
