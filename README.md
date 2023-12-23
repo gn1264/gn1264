@@ -19,6 +19,8 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gn1264&show_icons=true&locale=en&layout=compact" alt="gn1264" /></p>
+![programming-background-with-person-working-with-codes-computer (1)](https://github.com/gn1264/gn1264/assets/103953728/05ed1a49-6d1c-4cc2-93a0-20eeb2b76695)
+
 
 
 
