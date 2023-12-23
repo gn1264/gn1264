@@ -20,7 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gn1264&show_icons=true&locale=en&layout=compact" alt="gn1264" /></p>
 
-<p><img align="right" src="![programming-background-with-person-working-with-codes-computer (1)](https://github.com/gn1264/gn1264/assets/103953728/2197f0b7-5149-4a94-8412-4885980fe923)"alt="gn1264" /></p>
 
 
 
