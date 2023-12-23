@@ -20,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gn1264&show_icons=true&locale=en&layout=compact" alt="gn1264" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gn1264&show_icons=true&locale=en" alt="gn1264" /></p>
+
 
 
