@@ -2,7 +2,7 @@
 <h3 align="center">Student At SRM University Pursuing CSE With Specialisation in Software Engineering</h3>
 
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m **Java Developer**
 
 - 📫 How to reach me **gauravkumar211103@gmail.com**
 
